@@ -1,0 +1,12 @@
+body {
+  min-width: auto;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #f0ffff;
+}
+
+#project {
+  background-color: azure;
+}
